@@ -1,0 +1,1 @@
+This Color Randomizer project has two modes, the Simple and Hex. The Simple mode generates random colors from an already predefined list of colors in the HTML file whenever the randomize button is clicked whilst the Hex mode combines the various characters that make up the HEX color code to generate a random HEX color whenever the randomize button is clicked. Charlesu49 Feb 2022.
